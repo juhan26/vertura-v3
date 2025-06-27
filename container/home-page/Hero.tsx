@@ -37,10 +37,10 @@ export default function Hero() {
 										/>
 									</motion.span>
 									<h1 className="heading tracking-[-1.3px] text-white font-semibold font-FoundersGrotesk uppercase">
-										eye-opening
+										a twist
 									</h1>
 								</div>
-								presentation
+								with culture
 							</h1>
 						</div>
 						<div>
